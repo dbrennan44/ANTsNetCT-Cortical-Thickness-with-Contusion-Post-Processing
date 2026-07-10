@@ -1,4 +1,6 @@
-![Process_figure](./Picture1.png)
+<p align="center">
+  <img src="./Picture1.png" alt="Process_figure" width="100%">
+</p>
 
 
 # ANTsNetCT-Cortical-Thickness-with-Contusion-Post-Processing
