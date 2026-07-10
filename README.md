@@ -1,4 +1,4 @@
-![Process_figure](Picture1.png)
+![Process_figure](./Picture1.png)
 
 
 # ANTsNetCT-Cortical-Thickness-with-Contusion-Post-Processing
